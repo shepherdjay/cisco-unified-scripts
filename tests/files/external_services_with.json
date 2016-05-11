@@ -1,0 +1,20 @@
+{
+  "@total": "1",
+  "ExternalServiceAccount": {
+    "URI": "/vmrest/users/a63c4636-c167-4b07-be7a-e3be920997e6/externalserviceaccounts/080096aa-cf3b-48ff-ab5f-4769a9cb8c34",
+    "ObjectId": "080096aa-cf3b-48ff-ab5f-4769a9cb8c34",
+    "ExternalServiceObjectId": "7f0d0195-94be-4ca7-baec-30201ea02a77",
+    "SubscriberObjectId": "a63c4636-c167-4b07-be7a-e3be920997e6",
+    "UserURI": "/vmrest/users/a63c4636-c167-4b07-be7a-e3be920997e6",
+    "EnableCalendarCapability": "true",
+    "EnableMeetingCapability": "false",
+    "EnableTtsOfEmailCapability": "false",
+    "IsPrimaryMeetingService": "false",
+    "LoginType": "0",
+    "UserPassword": "",
+    "EmailAddress": "jayl@awesome.com",
+    "EnableMailboxSynchCapability": "true",
+    "EmailAddressUseCorp": "true",
+    "UserExternalServiceResetURI": "/vmrest/users/a63c4636-c167-4b07-be7a-e3be920997e6/externalserviceaccounts/080096aa-cf3b-48ff-ab5f-4769a9cb8c34/reset"
+  }
+}

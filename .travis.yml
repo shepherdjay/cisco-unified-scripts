@@ -6,8 +6,10 @@ python:
 branches:
   only:
     - master
+    - dev
 install:
   - pip install -r requirements.txt
+  - pip install -r tests/requirements-test.txt
 script:
   - py.test --cov
 after_success:

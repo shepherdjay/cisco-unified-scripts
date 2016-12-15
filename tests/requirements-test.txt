@@ -1,1 +1,3 @@
 betamax
+pytest
+pytest-cov

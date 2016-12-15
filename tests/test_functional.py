@@ -65,5 +65,5 @@ class FunctionalTests(TestCase):
             mock_api.side_effect = [self.fake_user_response, self.fake_external_with, self.fake_external_without]
             output = find_users_without(mock_api)
 
-        self.assertNotIn("bk205362", output)
-        self.assertIn("js201393", output)
+        self.assertNotIn("brianc", output)
+        self.assertIn("jayl", output)
